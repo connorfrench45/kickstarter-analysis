@@ -5,8 +5,7 @@ A spreadsheet examining how to maximize Kickstarter success specifically centere
 
 #### Launch Date
 The date the Kickstarter Launches has a significant affect on success 
-![Theater Outcomes vs Launch Date]/resources/Theater_Outcomes_vs_Launch.png
-
+![Theater Outcomes vs Launch Date](/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 - The success rate of Kickstarters launched in May through July is high with a high number of campaigns launched
 - The number of Failed campaigns is fairly consistent throughout the year, but the number of successful campaigns drops significantly after the peak months
 - Cancelled campaigns is a consistently small number throughout the year
@@ -27,10 +26,9 @@ Other factors that could be examined is the effect of being a "Staff Pick" or "S
 ## Analysis
 For the most successful campaign, a kickstarter launched in May with a goal amount less than $5,000 would give the best opportunity.
 Any goal higher than $5,000 would be like flipping a coin for success:
-![Outcomes vs Goal Amount]/blob/main/resources/Outcomes_vs_Goals.png
+![Outcomes vs Goal Amount](/blob/main/resources/Outcomes_vs_Goals.png)
 Any other Launch date would saturate the lower backer pool:
-![Theater Outcomes vs Launch Date]/resources/Theater_Outcomes_vs_Launch.png
-
+![Theater Outcomes vs Launch Date](/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 #### Challenges
 Only looking at Kickstarter statistics can overshadow outside factors. We can't know if Kickstarters we're more successful if they were advertised on certain platforms, for instance, or if other factors like the popularity of the creators had any affect. Also, these factors describes only correlated with success, rather than necessarily causing success.
