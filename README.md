@@ -34,11 +34,11 @@ These strategies are best when figuring out how to launch a campaign. For effect
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- What are two conclusions that can be drawn about the Outcomes based on Launch Date?
   - Success is highest from May through July
   - Failure is consistent throughout the year.
 
-- What can you conclude about the Outcomes based on Goals?
+- What can be concluded about the Outcomes based on Goals?
   - A campaign with a goal of less than $5,000 is far more successful (~75% success rate) than campaigns with goals greater than $5,000 (~50% success rate)
 
 - What are some limitations of this dataset?
