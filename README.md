@@ -1,4 +1,4 @@
-# Kickstarter Analysis for Finding Successful Theater Kickstarter Strategies
+# Kickstarter Analysis for Finding Successful Theater Campaign Strategies
 A spreadsheet examining how to maximize Kickstarter success specifically centered on Theater campaigns
 
 ## Results
