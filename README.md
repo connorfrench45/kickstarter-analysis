@@ -27,6 +27,7 @@ Other factors that could be examined is the effect of being a "Staff Pick" or "S
 For the most successful campaign, a kickstarter launched in May with a goal amount less than $5,000 would give the best opportunity.
 Any goal higher than $5,000 would be like flipping a coin for success:
 ![Outcomes vs Goal Amount](/resources/Outcomes_vs_Goals.png)
+
 Any other Launch date would saturate the lower backer pool:
 ![Theater Outcomes vs Launch Date](/resources/Theater_Outcomes_vs_Launch.png)
 
